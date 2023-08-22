@@ -1,0 +1,9 @@
+İki Keklik;Erkan Oğur;1003;Türk Halk;1996
+Halil İbrahim Sofrası;Barış Manço;1007;Anatolian Rock;1983
+The Ringer;Eminem;1001;Hip Hop;2018
+Smells Like Teen Spirit;Nirvana;1015;Alternative Rock;1991
+Ben Nasıl Büyük Adam Olucam;Pinhani;1024;Turkish Rock;2006
+Radioactive;Imagine Dragons;1012;Rock;2012
+Denizlerin Dalgasıyım;Selda Bağcan;1010;Turkish Folk;2004
+Dönence;Barış Manço;1000;Anatolian Rock;1981
+Ceviz Ağacı;Cem Karaca;1008;Rock;1987
